@@ -14,7 +14,7 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\New\\Desktop\\chromedri
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.bing.com/");
-
+System.out.println("push togithub");
 	}
 
 }
